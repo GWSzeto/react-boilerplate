@@ -1,0 +1,9 @@
+/node_modules
+/vscode
+/dist
+/public
+/.vscode
+.DS_Store
+.env
+.env.staging
+notes.md
